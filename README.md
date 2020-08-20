@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://)
+![](https://raw.githubusercontent.com/acsbarros/acsbarros/master/novad.png)
 - 🔭 I’m currently working on University for the International Integration of the Afro-Brazilian Lusophony - UNILAB and 
 researcher LAPISCO.
 - 🌱 I’m currently learning many things :).
