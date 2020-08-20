@@ -6,3 +6,6 @@ researcher LAPISCO.
 - 💬 Ask me about embedded systems and computer vision.
 - 📫 How to reach me:
   - [@acsbarros - Twitter](https://twitter.com/acsbarros)
+  
+  ![](https://raw.githubusercontent.com/acsbarros/acsbarros/master/100_3190_400x400.jpg)
+  
